@@ -1,6 +1,6 @@
 # ☕ BrayanSilver - Projetos em Java
 
-Este repositório reúne uma coleção de pequenos projetos, exercícios e desafios desenvolvidos em Java. Os códigos aqui têm como foco o aprendizado de lógica de programação, estrutura de dados básica e simulações de sistemas do mundo real.
+Este repositório reúne uma coleção de pequenos projetos, exercícios e desafios desenvolvidos em Java. 
 
 Ideal para iniciantes que querem ver a aplicação prática de conceitos fundamentais em Java.
 
