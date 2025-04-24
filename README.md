@@ -101,4 +101,4 @@ Sinta-se à vontade para me chamar, colaborar, sugerir melhorias ou trocar ideia
 
 ---
 
-> _"A prática diária transforma códigos simples em soluções incríveis."_ 💡
+> Na pasta Models a mais atividades a serem vizualizadas fico com o pensamento: _"A prática diária transforma códigos simples em soluções incríveis."_ 💡
